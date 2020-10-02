@@ -1,0 +1,209 @@
+@media (min-width: 992px) and (max-width: 1215px) {
+	/*banner*/
+	.banner .caption-info h1{
+		font-size:64px;
+		width:70%;
+	}
+	.banner .caption-info h2{
+		font-size:40px;
+		width:70%;
+	}
+	.banner .caption-info button{
+		font-size:40px;
+		width:60%;
+		padding:20px;
+	}
+	/*testimonial*/
+	.testimonial{
+		padding-bottom:20px;
+	}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+	.navbar-header img{
+		height:55px;
+		margin-top:-20px;
+	}
+	.navbar-inverse ul li a{
+		font-size:12px;
+	}
+	/*banner*/
+	.banner .caption-info h1{
+		font-size:36px;
+		width:350px;
+	}
+	.banner .caption-info h2{
+		font-size:28px;
+		width:440px;
+
+	}
+	.banner .caption-info button{
+		font-size:18px;
+		width:60%;
+		padding:20px;
+	}
+	
+	/*testimonial*/
+	.testimonial{
+		padding:20px;
+	}
+	.testimonial p{
+		text-align:center;
+		width:100%;
+		margin-left:10%;
+	}
+	/*footer*/
+	.footer2 p{
+		padding-top:10px;
+		text-align:center;
+	}
+	/*////////////////////////cash for*/
+	.banner1-cash #text-wrapper{
+		height:470px;
+	}
+	.banner2-cash #text-wrapper{
+		padding-top:20px;
+	}
+}
+@media (min-width: 480px) and (max-width: 767px) {
+	.navbar-inverse{
+		opacity:1;
+	}
+	/*banner*/
+	.banner .caption-info h1{
+		font-size:36px;
+		width:350px;
+	}
+	.banner .caption-info h2{
+		font-size:28px;
+		width:440px;
+
+	}
+	.banner .caption-info button{
+		font-size:18px;
+		width:60%;
+		padding:20px;
+	}
+	/*section info*/
+	#section-info h1{
+		font-size:28px;
+	}
+	.banner2{
+		height:500px;
+	}
+	/*testimonial*/
+	.testimonial img{
+		display:none;
+	}
+	.testimonial p{
+		text-align:center;
+		width:100%;
+		margin-left:10%;
+	}
+	/*footer*/
+	.footer2 p{
+		padding-top:10px;
+		text-align:center;
+	}
+	/*////////////////////////cash for*/
+	.banner1-cash #text-wrapper{
+		height:470px;
+	}
+	.banner2-cash #text-wrapper{
+		padding-top:20px;
+	}
+	.contact h1{
+		text-align:center;
+	}
+}
+@media (max-width: 479px) {
+	.navbar-header img{
+		height:55px;
+		margin-top:-20px;
+	}
+	.navbar-inverse{
+		opacity:1;
+	}
+
+	/*banner*/
+	.banner .caption-info h1{
+		font-size:20px;
+		width:100%;
+	}
+	.banner .caption-info h2, .banner2-cash h2{
+		font-size:16px;
+		width:100%;
+	}
+	.banner .caption-info button{
+		font-size:12px;
+		width:100%;
+		padding:20px;
+	}
+	.banner1-cash #text-wrapper{
+		height:470px;
+	}
+	.banner1-cash h2{
+		font-size:22px;
+	}
+	.banner2-cash #text-wrapper{
+		padding-top:20px;
+	}
+
+	/*section info*/
+	#section-info h1{
+		font-size:20px;
+	}
+	/*section 2*/
+	#section2 p{
+		font-size:16px;
+	}
+	/*banner 2*/
+	.banner2{
+		height:500px;
+	}
+	.banner2 .caption-info p{
+		line-height:24px;
+		font-size:14px;
+		padding:20px;
+	}
+	.banner .caption-info{
+		overflow:scroll;
+	}
+	/*testimonial*/
+	.testimonial{
+		padding:20px;
+	}
+	.testimonial h1{
+		text-align:center;
+	}
+	.testimonial img{
+		display:none;
+	}
+	.testimonial p{
+		text-align:center;
+		width:100%;
+		margin-left:10%;
+	}
+	/*footer*/
+	.footer2 p{
+		padding-top:10px;
+		text-align:center;
+	}
+	/*/////////////////////////////////////we buy////////////////////*/
+	.banner-webuy h2{
+		font-size:18px;
+		margin-top:40px;
+	}
+	.typecar h1{
+		font-size:24px;
+	}
+	/*/////////////////////////////////////contact////////////////////*/
+	.contact span.address, .contact span.contactno{
+		width:50%;
+		font-size:20px;
+		padding:10px 50px 10px 10px;
+		text-align:center;
+	}
+	.contact h1{
+		text-align:center;
+	}
+}
